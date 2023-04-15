@@ -1,0 +1,11 @@
+{
+  "name": "pluto-tchat-staff",
+  "version": "1.0.0",
+  "Description": "Tchat private anonyme plutonium staff",
+  "main": "index.js",
+  "author": "Bourdon",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.6.1"
+  }
+}
